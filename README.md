@@ -1,7 +1,7 @@
 
-                                # 👋 Hello, I'm Gyana Dewan
-
-                                ## Aspiring Frontend Developer
+   #                           👋 Hello, I'm Gyana Dewan
+   
+   ##                          Aspiring Frontend Developer
 - 🌱 I’m currently learning React.js  
 - 👯 I’m looking to collaborate on Frontend Web Development projects  
 - 🤔 I’m looking for help with improving my coding skills and best practices  
