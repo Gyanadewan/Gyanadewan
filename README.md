@@ -1,6 +1,7 @@
 
-## Hi there 👋
-- 🔭 I’m currently working on Frontend Web Development  
+ # 👋 Hello, I'm Gyana Dewan
+
+## Aspiring Frontend Developer
 - 🌱 I’m currently learning React.js  
 - 👯 I’m looking to collaborate on Frontend Web Development projects  
 - 🤔 I’m looking for help with improving my coding skills and best practices  
@@ -9,7 +10,7 @@
 - ⚡ Fun fact: I enjoy building web projects and learning new technologies 🚀
 
 ## 🙋‍♂️ About Me
-I am a passionate Frontend Web Developer focused on building modern, responsive, and user-friendly websites.
+I am a passionate Frontend Web Developer learner focused on building modern, responsive, and user-friendly websites.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyana-dewan-144827369) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gyana_dewa25442)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanadewan1@gmail.com) 
