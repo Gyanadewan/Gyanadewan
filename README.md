@@ -1,5 +1,5 @@
 
-   #                           👋 Hello, I'm Gyana Dewan
+   #                           👋 Hello, I'm Gyana Ratan Dewan
    
    ##                          Aspiring Frontend Developer
 - 🌱 I’m currently learning React.js  
