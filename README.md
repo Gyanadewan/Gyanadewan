@@ -1,42 +1,68 @@
 
-   #                           👋 Hello, I'm Gyana Ratan Dewan
-   
-   ##                          Aspiring Frontend Developer
-- 🌱 I’m currently learning React.js  
-- 👯 I’m looking to collaborate on Frontend Web Development projects  
-- 🤔 I’m looking for help with improving my coding skills and best practices  
-- 💬 Ask me about HTML, CSS, JavaScript, and React basics  
-- 📫 How to reach me: gyanadewan1@gmail.com 
-- ⚡ Fun fact: I enjoy building web projects and learning new technologies 🚀
+<h1 align="center">👋 Hello, I'm Gyana Ratan Dewan</h1>
+<h3 align="center">Aspiring Frontend Developer</h3>
 
-## 🙋‍♂️ About Me
-I am a passionate Frontend Web Developer learner focused on building modern, responsive, and user-friendly websites.
+---
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyana-dewan-144827369) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gyana_dewa25442)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanadewan1@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
+- 🌱 Currently learning **React.js**
+- 👯 Looking to collaborate on **Frontend Web Development Projects**
+- 🤔 Learning clean code and best practices
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 Email: **gyanadewan1@gmail.com**
+- ⚡ Fun fact: I enjoy building web projects and learning new technologies.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gyanadewan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gyanadewan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gyanadewan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/gyana-dewan-144827369">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/gyana_dewa25442">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:gyanadewan1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,figma,vercel,netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Gyanadewan&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Gyanadewan&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanadewan&theme=tokyonight&layout=compact&hide_border=true)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gyanadewan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://github-profile-trophy.vercel.app/?username=Gyanadewan&theme=tokyonight&no-frame=true&margin-w=10)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Gyanadewan&theme=tokyo-night)
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gyanadewan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
