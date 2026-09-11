@@ -41,11 +41,12 @@ Currently, I'm focused on strengthening my **React skills** while working on exc
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyanadewan&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanadewan&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gyanadewan&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanadewan&layout=compact&theme=default" height="180"/>
+</p>
 
 ---
 
