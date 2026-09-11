@@ -43,10 +43,11 @@ Currently, I'm focused on strengthening my **React skills** while working on exc
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyanadewan&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanadewan&layout=compact&theme=default" height="180"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Gyanadewan&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Gyanadewan&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanadewan&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
